@@ -1,0 +1,2 @@
+{"level":"info","message":{"_id":"617a71ac116abea2d3032a08","createdAt":"2021-10-28T09:47:24.553Z","name":"logDeneme","updatedAt":"2021-10-28T09:47:24.553Z"},"service":"user-service"}
+{"level":"info","message":{"_id":"617a71d57e1729b52a2ff5e1","createdAt":"2021-10-28T09:48:05.392Z","name":"logDeneme2","updatedAt":"2021-10-28T09:48:05.392Z"},"service":"project-service"}
